@@ -1,6 +1,6 @@
 {
   "version": 1.0.0,
-  "package_name": "cloud.begzar.begzar",
+  "package_name": "pingo",
   "update_url": "https://github.com/youruser/yourrepo/releases/latest",
   "force_update": false,
   "update_message": {
