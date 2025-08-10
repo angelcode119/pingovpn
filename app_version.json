@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": 1.0.1,
   "package_name": "com.example.pingo",
   "update_url": "https://github.com/youruser/yourrepo/releases/latest",
   "force_update": false,
