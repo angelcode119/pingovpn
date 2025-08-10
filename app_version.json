@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "package_name": "com.example.pingo",
+  "update_url": "https://github.com/youruser/yourrepo/releases/latest",
+  "force_update": false,
+  "update_message": {
+    "title": "نسخه جدید موجود است!",
+    "description": "برای استفاده از آخرین امکانات و بهبودهای امنیتی، لطفاً به نسخه جدید آپدیت کنید.",
+    "button_text": "دانلود آپدیت"
+  }
+}
